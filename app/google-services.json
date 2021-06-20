@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475210731223",
+    "firebase_url": "https://verification-be1fb.firebaseio.com",
+    "project_id": "verification-be1fb",
+    "storage_bucket": "verification-be1fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475210731223:android:5a5c3fac4913c28089ea92",
+        "android_client_info": {
+          "package_name": "com.sahil.verification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475210731223-9ndmvf9idj0i8gd2gar97tdgstj6bani.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sahil.verification",
+            "certificate_hash": "f37152bccdcf64b2f80755ca13edc6e6be5f66ae"
+          }
+        },
+        {
+          "client_id": "475210731223-ctdu6sih2102fu4cdk8lsbi9b2k2jtj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBuLdrA7p69_L55SEGxKRIVhOMGac4NY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475210731223-ctdu6sih2102fu4cdk8lsbi9b2k2jtj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
